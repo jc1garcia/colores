@@ -1022,6 +1022,12 @@ var APP_DATA = {
           "pitch": 0.8717102545729176,
           "rotation": 4.71238898038469,
           "target": "21-habitacion-5"
+        },
+        {
+          "yaw": 1.8208289778190805,
+          "pitch": 0.43638777697087505,
+          "rotation": 1.5707963267948966,
+          "target": "21-habitacion-5"
         }
       ],
       "infoHotspots": []
